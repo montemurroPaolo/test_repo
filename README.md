@@ -5,6 +5,6 @@ Un paragrafo e’ solo testo.
 Le righe vuote separano i paragrafi.
 - punto elenco
 - altro punto
-- punto annidato
+  - punto annidato
 1. elemento numerato
 2. altro elemento
